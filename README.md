@@ -1,4 +1,4 @@
-project_name
+Potential Talent
 ==============================
 
 Shortlisting and ranking talented individuals from a list of applicants
