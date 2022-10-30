@@ -2,6 +2,33 @@ Potential Talent
 ==============================
 
 Shortlisting and ranking talented individuals from a list of applicants
+## Installation Instructions
+
+go to anaconda prompt and type in following commands:
+1- to install jupyter book so it can use virtual environment
+```
+conda install -c conda-forge notebook
+conda install -c conda-forge nb_conda_kernels
+conda install -c conda-forge jupyterlab
+conda install -c conda-forge nb_conda_kernels
+```
+
+2- to create virtual environment and install requirements
+```
+conda create --name term-analysis pip ipykernel
+source activate term-analysis
+git clone --recursive https://github.com/Usama-zia/potential_talents.git
+cd potential_talents
+pip install -r requirements.txt
+```
+3- now use following commands to first deactivate enviornment and open jupyter notebook
+```
+source deactivate
+jupyter notebook
+```
+to run jupyter notebook make sure you are in conda base enviornment.
+Dataset is also included in the repository.
+
 
 Project Organization
 ------------
