@@ -16,7 +16,7 @@ conda install -c conda-forge nb_conda_kernels
 2- to create virtual environment and install requirements
 ```
 conda create --name potential_talents pip ipykernel
-source activate term-analysis
+source activate potential_talents
 git clone --recursive https://github.com/Usama-zia/potential_talents.git
 cd potential_talents
 pip install -r requirements.txt
