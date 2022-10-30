@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 3- now use following commands to first deactivate enviornment and open jupyter notebook
 ```
-source deactivate
+conda deactivate
 jupyter notebook
 ```
 to run jupyter notebook make sure you are in conda base enviornment.
