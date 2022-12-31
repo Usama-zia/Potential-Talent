@@ -1,7 +1,7 @@
 Potential Talent
 ==============================
 
-Shortlisting and ranking talented individuals from a list of applicants
+Shortlisting and ranking talented individuals from a list of applicants. Please consult notebook (Data_analysis_v1.ipynb) for detailed description of project and Analysis.
 ## Installation Instructions
 
 go to anaconda prompt and type in following commands:
